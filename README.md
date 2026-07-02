@@ -42,7 +42,7 @@ Aqui compartilho estudos, desafios e soluções desenvolvidas durante minha jorn
 ---
 
 ## 📫 Contato
-- LinkedIn: [Seu LinkedIn](https://linkedin.com/in/seuusuario)  
+- LinkedIn: [Seu LinkedIn](https://github.com/Mara-ux542)  
 - GitHub: [Seu GitHub](https://github.com/seuusuario)  
 - E-mail: marapilipenko@outlook.com
 
